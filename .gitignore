@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# binary files
+bin/
+
+# vsc settings
+.vscode/
